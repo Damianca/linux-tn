@@ -8,4 +8,6 @@
 4. Administración básica
 5. Administración de redes
 6. Seguridad
-7. 
+7. Administrar volúmenes
+8. Solución de Problemas
+
