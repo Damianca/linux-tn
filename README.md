@@ -35,3 +35,15 @@ Descargas (elegir una versión)
 
    [Ubuntu 14.04](http://releases.ubuntu.com/14.04/ubuntu-14.04.5-desktop-amd64.iso)
 
+### Live CD
+
+#### 1. Instalar Bit Torrent
+
+[Bit Torrent](https://github.com/Damianca/linux-tn/blob/master/resources/BitTorrent.exe)
+
+#### 2. Descargar Knoppix CD Live y OPEN SUSE CD Live
+
+   [Knoppix CD Live](https://github.com/Damianca/linux-tn/blob/master/resources/KNOPPIX_V7.2.0CD-2013-06-16-EN.torrent)
+
+   [OPEN SUSE CD Live](https://github.com/Damianca/linux-tn/blob/master/resources/openSUSE-Tumbleweed-GNOME-Live-x86_64-Current.iso.torrent)
+
