@@ -43,7 +43,11 @@ Descargas (elegir una versión)
 
 #### 2. Descargar Knoppix CD Live y OPEN SUSE CD Live
 
+   [Knoppix Site](http://www.knopper.net/knoppix/index-en.html)
+   
    [Knoppix CD Live](https://github.com/Damianca/linux-tn/blob/master/resources/KNOPPIX_V7.2.0CD-2013-06-16-EN.torrent)
 
+   [OPEN SUSE Site](https://www.opensuse.org/)
+   
    [OPEN SUSE CD Live](https://github.com/Damianca/linux-tn/blob/master/resources/openSUSE-Tumbleweed-GNOME-Live-x86_64-Current.iso.torrent)
 
